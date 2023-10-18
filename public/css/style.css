@@ -1,0 +1,37 @@
+@import url(musicstyle.css);
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 10vh;
+    background:url(/img/emilia-home.jpg)
+    no-repeat center right fixed;
+    background-size: contain;
+}
+
+ul li.redes{
+    display: inline-block;
+    padding: 0px 1px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    padding: auto;
+}
+a:hover{
+    color:pink;
+}
+
+h2{
+    font-family: 'Noto Sans';
+    font-size: 30px;
+    padding-left: 37px;
+    padding-top: 50px;
+    padding-bottom: 90px;
+}
+
+h1{
+    font-size: 60px;
+    background: white;
+}
+

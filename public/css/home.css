@@ -1,0 +1,30 @@
+#imghome{
+    background: url(/img/emilia-home.jpg)
+    no-repeat right fixed;
+    background-size: 77%;
+}
+
+#h1home{
+    font-size: 50px;
+    background-color: rgba(255, 255, 255, 0.4);
+}
+
+.h2home{
+    font-weight: lighter;
+    font-size: 27px;
+    padding-left: 37px;
+    padding-top: 60px;
+    padding-bottom: 90px;
+}
+
+#navegador1{
+    display: grid;
+    place-items: left;
+}
+#navegador1 li{
+    margin: 8px 0;
+    font-size: 15px;
+}
+#navegadorredeshome{
+    font-size: small;
+}
